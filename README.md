@@ -10,9 +10,9 @@ Incluye autenticación mediante login y operaciones CRUD sobre los tópicos.
 - Spring Boot 3.x
 - Spring Security + JWT
 - Spring Data JPA / Hibernate
-- Flyway (migraciones de base de datos)
-- MySQL (o H2 para pruebas)
-- Swagger (documentación interactiva)
+- Flyway
+- MySQL
+- Swagger
 
 ---
 
